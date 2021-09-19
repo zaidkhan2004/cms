@@ -2,10 +2,10 @@
 
 // Database connection info
 $dbDetails = array(
-    'host' => 'localhost',
-    'user' => 'root',
-    'pass' => '',
-    'db'   => 'cms_db'
+    'host' => '172.105.37.124',
+    'user' => 'qvvtxdhrye',
+    'pass' => 'WZ9r3pXZSN',
+    'db'   => 'qvvtxdhrye'
 );
 
 
