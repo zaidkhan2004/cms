@@ -11,9 +11,9 @@
 
 		// Database parameters
 	    $servername = "172.105.37.124";
-	    $username = "qvvtxdhrye";
-	    $password = "WZ9r3pXZSN";
-	    $dbname = "qvvtxdhrye";
+	    $username = "znwnqqtcvj";
+	    $password = "BmZXx5mDYX";
+	    $dbname = "znwnqqtcvj";
 	    
 	    global $conn2;
     	$conn2 = new PDO("mysql:host=$servername;dbname=$dbname;charset=utf8", $username, $password);
