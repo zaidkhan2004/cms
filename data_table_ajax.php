@@ -3,9 +3,9 @@
 // Database connection info
 $dbDetails = array(
     'host' => '172.105.37.124',
-    'user' => 'qvvtxdhrye',
-    'pass' => 'WZ9r3pXZSN',
-    'db'   => 'qvvtxdhrye'
+    'user' => 'znwnqqtcvj',
+    'pass' => 'BmZXx5mDYX',
+    'db'   => 'znwnqqtcvj'
 );
 
 
