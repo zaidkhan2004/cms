@@ -2,7 +2,7 @@
 
 // Database connection info
 $dbDetails = array(
-    'host' => '172.105.37.124',
+    'host' => '45.79.123.149',
     'user' => 'znwnqqtcvj',
     'pass' => 'BmZXx5mDYX',
     'db'   => 'znwnqqtcvj'
