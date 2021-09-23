@@ -10,7 +10,7 @@
 	function connect2(){
 
 		// Database parameters
-	    $servername = "172.105.37.124";
+	    $servername = "45.79.123.149";
 	    $username = "znwnqqtcvj";
 	    $password = "BmZXx5mDYX";
 	    $dbname = "znwnqqtcvj";
